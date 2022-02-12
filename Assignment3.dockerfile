@@ -1,4 +1,3 @@
-# Dockerfile
 FROM ubcdsci/jupyterlab
 
 # Install Jupyter, JupterLab, R & the IRkernel
