@@ -1,4 +1,4 @@
-name: Assignment3_Publish Dockerfile on DockerHub
+name: DSCI310_HW3_Publish Dockerfile on DockerHub
 on: 
   push: 
     branches:
